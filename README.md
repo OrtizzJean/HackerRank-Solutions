@@ -15,10 +15,8 @@ Os exercícios estão organizados por trilha/categoria conforme a divisão do Ha
 ```text
 HackerRank-Solutions/
 ├── Java/
-│   ├── Welcome_to_Java.java
-│   └── Java_If_Else.java
+│   ├── Welcome-to-Java.java
+│   └── If-Else.java
 ├── SQL/
-│   ├── Revising_the_Select_Query_I.sql
-│   └── Select_All.sql
-└── Problem-Solving/
-    └── Solve_Me_First.java
+│   ├── Revising-the-Select-Query-I.sql
+│   └── Select-All.sql
